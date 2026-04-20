@@ -64,13 +64,13 @@ Pueden elegir cualquier temática creativa para su aplicación, por ejemplo:
 ```
 /src
  ├── components
- │   └── ItemCard.jsx
- ├── pages
- │   ├── ItemList.jsx
- │   ├── ItemDetail.jsx
- │   ├── ItemCreate.jsx
- │   ├── ItemEdit.jsx
- │   └── NotFound.jsx
+ │   ├── ItemCard.jsx
+     ├── pages
+ │      ├── ItemList.jsx
+ │      ├── ItemDetail.jsx
+ │      ├── ItemCreate.jsx
+ │      ├── ItemEdit.jsx
+ │      └── NotFound.jsx
  ├── context
  │   └── ItemContext.jsx
  ├── Router
